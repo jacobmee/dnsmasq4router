@@ -1,4 +1,4 @@
-gfwlist2dnsmasq
+extended from gfwlist2dnsmasq
 =================
 Intro
 -----
