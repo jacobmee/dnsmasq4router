@@ -17,6 +17,7 @@ mydnsport = '5353'
 ipsetname = 'gfwlist'
 # Extra Domain;
 EX_DOMAIN=[ \
+'.openwrt.org', \
 '.google.com', \
 '.google.com.hk', \
 '.google.com.tw', \
