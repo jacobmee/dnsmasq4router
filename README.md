@@ -1,8 +1,9 @@
-From gfwlist2dnsmasq
+Two Parts: dnsmasq for gfw & apple servers 
 =================
 Intro
 -----
-Just another script to auto-generate dnsmasq ipset rules using gfwlist
+script to auto-generate dnsmasq ipset rules using gfwlist
+script to auto-generate dnsmasq configuration for apple server by testing the speed of the servers
 
 __Notification: Need python2, do not use python3__
 
